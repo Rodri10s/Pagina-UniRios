@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#principal{
+    background-color: #1B3E6A;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#principal img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#secundario {
+    background-color: #FF9900;
+    min-height: 10px;
+    margin-bottom: 30px;
+}
+
+.corpo {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#inicio img{
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+    border-radius: 20px;
+}
+
+.corpo p{
+    margin-bottom: 15px;
+}
+
+#fim img {
+    width: 300px;
+    float: right;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+
+#rodape {
+    background-color: #FF9900;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: small;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
